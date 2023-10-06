@@ -1,0 +1,101 @@
+fund_id,fund_name,fund_type,fund_benchmark
+35373597,Equity Fund 1,Balanced,S&P 500
+59674173,Equity Fund 2,Commodities,S&P 500
+44459913,Fixed Income Fund 3,Balanced,Russell 2000
+45329806,Fixed Income Fund 4,Equity,Russell 2000
+95510903,Fixed Income Fund 5,Balanced,Russell 2000
+65479469,Commodities Fund 6,Fixed Income,S&P 500
+64746348,Risk Parity Fund 7,Commodities,Russell 2000
+54160469,Commodities Fund 8,Balanced,Russell 2000
+67720775,Real Estate Fund 9,Fixed Income,Bloomberg Agg
+18710196,Risk Parity Fund 10,Equity,Bloomberg Agg
+70137966,Risk Parity Fund 11,Equity,Russell 2000
+29659229,Balanced Fund 12,Fixed Income,Bloomberg Agg
+25104089,Risk Parity Fund 13,Equity,Bloomberg Agg
+96434945,Risk Parity Fund 14,Risk Parity,S&P 500
+48523271,Real Estate Fund 15,Commodities,Russell 2000
+88997679,Equity Fund 16,Real Estate,Russell 2000
+64085982,Equity Fund 17,Fixed Income,Russell 2000
+69506916,Commodities Fund 18,Commodities,S&P 500
+13295130,Commodities Fund 19,Risk Parity,S&P 500
+98760799,Commodities Fund 20,Risk Parity,Russell 2000
+76486840,Balanced Fund 21,Risk Parity,Russell 2000
+22657204,Fixed Income Fund 22,Real Estate,Russell 2000
+85253961,Equity Fund 23,Fixed Income,S&P 500
+19220379,Equity Fund 24,Real Estate,Russell 2000
+53789482,Commodities Fund 25,Equity,S&P 500
+73110676,Commodities Fund 26,Equity,S&P 500
+27996796,Risk Parity Fund 27,Commodities,S&P 500
+43224861,Commodities Fund 28,Balanced,Russell 2000
+91054577,Commodities Fund 29,Risk Parity,Russell 2000
+90221422,Balanced Fund 30,Fixed Income,S&P 500
+20686927,Risk Parity Fund 31,Balanced,S&P 500
+92092819,Commodities Fund 32,Real Estate,Bloomberg Agg
+67105559,Risk Parity Fund 33,Equity,S&P 500
+72997430,Fixed Income Fund 34,Fixed Income,Bloomberg Agg
+40101706,Equity Fund 35,Fixed Income,S&P 500
+11726159,Risk Parity Fund 36,Balanced,S&P 500
+42636156,Commodities Fund 37,Fixed Income,S&P 500
+17599605,Real Estate Fund 38,Equity,Russell 2000
+70332253,Commodities Fund 39,Fixed Income,Bloomberg Agg
+35323285,Balanced Fund 40,Balanced,Russell 2000
+22675579,Risk Parity Fund 41,Equity,S&P 500
+53952501,Fixed Income Fund 42,Fixed Income,Russell 2000
+40987651,Equity Fund 43,Equity,Bloomberg Agg
+15980403,Risk Parity Fund 44,Equity,Russell 2000
+79502565,Fixed Income Fund 45,Equity,Russell 2000
+41229437,Risk Parity Fund 46,Balanced,Russell 2000
+34526288,Balanced Fund 47,Fixed Income,S&P 500
+98987354,Equity Fund 48,Risk Parity,S&P 500
+70942937,Balanced Fund 49,Balanced,S&P 500
+11605458,Equity Fund 50,Risk Parity,Bloomberg Agg
+70534354,Fixed Income Fund 51,Equity,Bloomberg Agg
+15753539,Equity Fund 52,Balanced,Russell 2000
+96555478,Equity Fund 53,Risk Parity,Russell 2000
+65832217,Commodities Fund 54,Equity,S&P 500
+66900412,Balanced Fund 55,Balanced,S&P 500
+94710676,Fixed Income Fund 56,Balanced,Bloomberg Agg
+56641766,Equity Fund 57,Fixed Income,Bloomberg Agg
+58456060,Fixed Income Fund 58,Risk Parity,Bloomberg Agg
+24137221,Equity Fund 59,Fixed Income,Russell 2000
+36548480,Risk Parity Fund 60,Equity,Russell 2000
+18835101,Equity Fund 61,Real Estate,Russell 2000
+32280285,Commodities Fund 62,Fixed Income,Bloomberg Agg
+98866743,Risk Parity Fund 63,Balanced,Russell 2000
+14687907,Risk Parity Fund 64,Commodities,Bloomberg Agg
+80102345,Risk Parity Fund 65,Fixed Income,S&P 500
+32254796,Commodities Fund 66,Fixed Income,Bloomberg Agg
+85264831,Fixed Income Fund 67,Risk Parity,S&P 500
+76027957,Real Estate Fund 68,Commodities,Bloomberg Agg
+23755140,Risk Parity Fund 69,Balanced,Bloomberg Agg
+95972425,Commodities Fund 70,Commodities,Bloomberg Agg
+95510973,Commodities Fund 71,Fixed Income,Bloomberg Agg
+76359079,Equity Fund 72,Fixed Income,Bloomberg Agg
+61142446,Commodities Fund 73,Commodities,S&P 500
+33740742,Risk Parity Fund 74,Commodities,Bloomberg Agg
+78246678,Real Estate Fund 75,Real Estate,Bloomberg Agg
+33478362,Equity Fund 76,Commodities,Bloomberg Agg
+25889324,Commodities Fund 77,Risk Parity,Russell 2000
+98595835,Fixed Income Fund 78,Commodities,S&P 500
+66298485,Fixed Income Fund 79,Equity,S&P 500
+27561672,Commodities Fund 80,Risk Parity,S&P 500
+17990872,Risk Parity Fund 81,Real Estate,Bloomberg Agg
+35172614,Fixed Income Fund 82,Commodities,Russell 2000
+69007006,Commodities Fund 83,Equity,Bloomberg Agg
+45360976,Fixed Income Fund 84,Fixed Income,S&P 500
+18094386,Fixed Income Fund 85,Fixed Income,S&P 500
+78254115,Fixed Income Fund 86,Fixed Income,Russell 2000
+95426874,Equity Fund 87,Balanced,Russell 2000
+10343778,Real Estate Fund 88,Risk Parity,Russell 2000
+94857669,Risk Parity Fund 89,Risk Parity,Russell 2000
+11151808,Equity Fund 90,Balanced,Russell 2000
+49618219,Balanced Fund 91,Risk Parity,S&P 500
+74975024,Risk Parity Fund 92,Equity,Bloomberg Agg
+70776164,Real Estate Fund 93,Risk Parity,Russell 2000
+98704577,Risk Parity Fund 94,Equity,Russell 2000
+73363229,Real Estate Fund 95,Commodities,S&P 500
+61229971,Commodities Fund 96,Equity,Russell 2000
+71048022,Risk Parity Fund 97,Balanced,Russell 2000
+30083558,Commodities Fund 98,Commodities,Russell 2000
+80648378,Real Estate Fund 99,Equity,Russell 2000
+55961746,Equity Fund 100,Risk Parity,Bloomberg Agg
